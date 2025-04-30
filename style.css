@@ -146,7 +146,7 @@ body {
 }
 .nav1 .cont1 .ong h1 {
   font-weight: 600;
-  font-size: 35px;
+  font-size: 32px;
   text-transform: uppercase;
   color: white;
   line-height: 50px;
@@ -216,7 +216,7 @@ body {
 .sem .card {
   background: #fff;
   border-radius: 10px;
-  width: 320px;
+  width: 270px;
   height: 500px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   overflow: hidden;
